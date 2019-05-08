@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pong()
+comment1.params=
+comment1.target=void\ resetPuck()
+comment1.text=\n\ Called\ every\ time\ someone\ scores\ and\ at\ the\ start\ of\ the\ game\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\n\ Called\ at\ every\ tick\ of\ the\ timer\n
+comment3.params=
+comment3.target=void\ AIPlayer()
+comment3.text=\n\ Controls\ for\ the\ computer\ player\ (blue\ paddle)\n
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+comment4.text=\n\ Gets\ rid\ of\ Applet\ started\ text\ in\ lower\ left\ corner\n\ and\ replaces\ with\ instructions\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\n\ Run\ this\ method\ to\ play\ the\ game\n
+numComments=6
